@@ -1,0 +1,14 @@
+{
+    "name": "docker_ui_mock",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Monika Shivhare",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1"
+    }
+}
